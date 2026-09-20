@@ -4,12 +4,6 @@ A web-based expense management application built using Python, Flask, SQLite, HT
 
 The application allows users to record, edit, delete, and analyze their daily expenses through a simple and responsive dashboard.
 
-## Live Project
-
-GitHub Repository:
-
-https://github.com/yashb2128/smart-expense-tracker
-
 ## Features
 
 - Add new expenses
